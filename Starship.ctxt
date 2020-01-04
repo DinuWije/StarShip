@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Starship
+comment0.text=\r\n\ Largest\ class\ in\ game.\r\n\ Used\ to\ control\ the\ main\ actor\ (starship).\r\n\ Determines\ interactions\ between\ starship\ and\ the\ environment\ around\ it.\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3(21/01/2018)\r\n
+comment1.params=start\ end
+comment1.target=int\ getRandomCustomNumber(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=startWorld
+comment0.text=\r\n\ The\ first\ scree\ nthat\ the\ player\ sees\ when\ playing\ the\ game\r\n\ Starts\ basic\ functions\ of\ game\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3\ (21/01/2018)\r\n
+comment1.params=
+comment1.target=startWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

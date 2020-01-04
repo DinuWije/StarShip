@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ The\ scoreboard,\ which\ tracks\ how\ many\ aliens\ the\ player\ has\ destroyed.\r\n\ Resets\ after\ each\ game\ over\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3(21/01/2018)\r\n
+comment1.params=
+comment1.target=Counter()
+comment2.params=
+comment2.target=void\ resetCounter()
+comment3.params=amount
+comment3.target=void\ bumpCount(int)
+numComments=4

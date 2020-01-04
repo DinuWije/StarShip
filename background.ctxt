@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=background
+comment0.text=\r\n\ Main\ Background\ class.\ Creates\ world\ and\ starship\ actor\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3(21/01/2018)\r\n
+comment1.params=
+comment1.target=background()
+comment2.params=
+comment2.target=Counter\ getCounter()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ Sets\ up\ the\ rock\ which\ acts\ as\ an\ obstacle\ to\ the\ starship\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3(21/01/2018)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

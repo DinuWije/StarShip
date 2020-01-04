@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=laserBlast
+comment0.text=\r\n\ Controls\ simple\ actions\ of\ the\ laser\ blast\ shot\ from\ the\ Starship\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3(21/01/2018)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ method\ runs\ continuosly\ \r\n
+numComments=2

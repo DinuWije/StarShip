@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=instructions
+comment0.text=\r\n\ Displays\ the\ instructions\ when\ the\ game\ first\ begins\r\n\ \r\n\ @Dinu\ Wijetunga\r\n\ @v1.3(21/01/2018)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
